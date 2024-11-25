@@ -1,7 +1,8 @@
-## Hi there 👋
+## Olá, Eu sou Luis Alves! 👋
 
-<!--
-**luis-apn/luis-apn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente sou estudante de Engenharia de Computação na UFPB, moro em João Pessoa - PB, Brazil. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiluis-apn=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
